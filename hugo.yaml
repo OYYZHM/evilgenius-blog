@@ -1,5 +1,5 @@
 baseURL: https://www.evilgenius.blog
-title: "邪恶天才 · Evil Genius"
+title: "Evil Genius"
 languageCode: "zh-cn"
 theme: "hello-friend-ng"
 hasCJKLanguage: true
@@ -37,7 +37,7 @@ params:
   keywords: "horror,chinese horror,ghost stories,恐怖故事,灵异,中式恐怖"
   images: [""]
 
-  homeSubtitle: "心有敬畏，行有所止 🕯️"
+  homeSubtitle: "Fear the unseen. They are watching."
 
   disableReadOtherPosts: false
   enableThemeToggle: false
@@ -57,7 +57,7 @@ params:
     author: true
     topText: []
     bottomText:
-      - "🕯️ 夜深人静，故事才刚开始"
+      - "🕯 The night is dark and full of terrors."
 
   params.favicon.color:
     mask: "#8b0000"
