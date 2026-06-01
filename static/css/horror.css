@@ -1,0 +1,147 @@
+/* ===== 中式恐怖皮肤 ===== */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&family=Ma+Shan+Zheng&display=swap');
+
+:root {
+  --bg: #0d0d0d;
+  --bg-alt: #141414;
+  --bg-content: #111;
+  --text: #c8c0b0;
+  --text-muted: #6b6359;
+  --accent: #8b0000;
+  --accent-bright: #cc0000;
+  --accent-glow: rgba(139, 0, 0, 0.4);
+  --border: #2a2220;
+  --shadow: 0 0 20px rgba(139, 0, 0, 0.1);
+  --font-body: "Noto Serif SC", "STSong", "SimSun", "Songti SC", serif;
+  --font-heading: "Ma Shan Zheng", "Noto Serif SC", serif;
+  --font-code: "Courier New", monospace;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  background-image:
+    radial-gradient(ellipse at top, rgba(139, 0, 0, 0.06) 0%, transparent 60%),
+    radial-gradient(ellipse at bottom, rgba(0, 0, 0, 0.8) 0%, var(--bg) 100%);
+  background-attachment: fixed;
+}
+
+/* 主页标题 */
+.post-title, .post-content h1, .post-content h2 {
+  font-family: var(--font-heading);
+  color: var(--accent-bright);
+}
+
+.post-content h1 {
+  border-left: 3px solid var(--accent);
+  padding-left: 0.8em;
+  text-shadow: 0 0 10px var(--accent-glow);
+}
+
+.post-content h2 {
+  border-bottom: 1px dashed var(--border);
+  padding-bottom: 0.3em;
+}
+
+a {
+  color: var(--accent-bright);
+  transition: color 0.3s, text-shadow 0.3s;
+}
+a:hover {
+  color: #ff3333;
+  text-shadow: 0 0 8px var(--accent-glow);
+}
+
+/* 文章卡片悬停 */
+.posts-list .post:hover {
+  border-left: 3px solid var(--accent);
+  background: rgba(139, 0, 0, 0.03);
+  transition: all 0.3s;
+}
+
+/* 引用块 - 像怨灵在说话 */
+blockquote {
+  border-left: 3px solid var(--accent);
+  background: rgba(139, 0, 0, 0.06);
+  padding: 0.8em 1.2em;
+  font-style: italic;
+  position: relative;
+}
+blockquote::before {
+  content: "「";
+  font-size: 2em;
+  color: var(--accent);
+  opacity: 0.5;
+  position: absolute;
+  top: -0.2em;
+  left: 0.2em;
+}
+
+/* 分割线 - 中式花纹风格 */
+hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--accent), transparent);
+  margin: 2em 0;
+}
+
+/* 代码块 */
+code, pre {
+  background: #0a0a0a;
+  border: 1px solid var(--border);
+}
+
+/* 页脚 */
+.footer {
+  border-top: 1px solid var(--border);
+  color: var(--text-muted);
+}
+
+/* logo 光标 */
+.logo__cursor {
+  background: var(--accent-bright);
+  box-shadow: 0 0 10px var(--accent-glow);
+}
+
+/* 返回顶部 */
+.top-link {
+  background: var(--accent);
+  color: #fff;
+}
+
+/* 滚动条 */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--accent);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-bright);
+}
+
+/* 选中文字 */
+::selection {
+  background: rgba(139, 0, 0, 0.5);
+  color: #fff;
+}
+
+/* 阅读时间 & 标签 */
+.post-info, .post-tags a {
+  color: var(--text-muted);
+}
+.post-tags a {
+  border: 1px solid var(--border);
+  padding: 0.1em 0.5em;
+  border-radius: 2px;
+}
+.post-tags a:hover {
+  border-color: var(--accent);
+  background: rgba(139, 0, 0, 0.15);
+  color: var(--accent-bright);
+}
