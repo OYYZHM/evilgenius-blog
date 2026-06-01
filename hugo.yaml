@@ -70,12 +70,6 @@ params:
     logoCursorColor: "#cc0000"
     logoCursorAnimate: "1.5s"
 
-  social:
-    - name: "rss"
-      url: "/index.xml"
-    - name: "email"
-      url: "mailto:evilgenius@evilgenius.blog"
-
   images: []
 
 menu:
