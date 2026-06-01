@@ -45,7 +45,7 @@ params:
   enableReadingTime: true
   enableGlobalLanguageMenu: false
 
-  customCSS: ["css/horror.css"]
+  customCSS: ["/css/horror.css"]
 
   author:
     name: "Evil Genius"
