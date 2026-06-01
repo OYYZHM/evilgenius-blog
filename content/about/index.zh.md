@@ -1,23 +1,8 @@
 ---
-title: "关于"
+title: "About"
 date: 2026-05-31
 ---
 
-## 邪恶天才
+Lonely spirits of the wilderness, strange tales from the streets.
 
-山野孤魂，市井异闻。
-
-这里收录的是**中式恐怖故事的重新演绎**——源自电影、民间传说与都市怪谈。
-
-### 为什么做这个？
-
-西方的丧尸与吸血鬼早已泛滥，而你我都知道——真正让人脊背发凉的，是午夜巷尾的红灯笼，是老宅深处的脚步声，是镜子里不属于自己的那张脸。
-
-中式恐怖，不讲血腥，讲**敬畏**。
-
----
-
-> 信则有，不信则无。
-> 但看完之后，你不妨回头看看身后。
-
-🕯️
+Here you will find reimagined Chinese horror stories — drawn from films, folklore, and urban legends. 🕯️
