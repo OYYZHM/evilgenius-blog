@@ -1,0 +1,18 @@
+{
+  "name": "邪恶天才 · Evil Genius",
+  "short_name": "Evil Genius",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16"
+    }
+  ],
+  "theme_color": "#8b0000",
+  "background_color": "#0d0d0d",
+  "display": "standalone"
+}

@@ -25,7 +25,6 @@ permalinks:
 taxonomies:
   tag: "tags"
   category: "categories"
-  series: "series"
 
 params:
   dateform: "2006-01-02"
@@ -35,7 +34,6 @@ params:
 
   description: "Chinese Horror Stories · Enter if you dare"
   keywords: "horror,chinese horror,ghost stories,folklore,urban legends,supernatural"
-  images: [""]
 
   homeSubtitle: "Fear the unseen. They are watching."
 
@@ -59,10 +57,11 @@ params:
     bottomText:
       - "🕯 The night is dark and full of terrors."
 
-  favicon.color:
-    mask: "#8b0000"
-    msapplication: "#0d0d0d"
-    theme: "#0d0d0d"
+  favicon:
+    color:
+      mask: "#8b0000"
+      msapplication: "#0d0d0d"
+      theme: "#0d0d0d"
 
   logo:
     logoMark: "☯"
@@ -70,6 +69,14 @@ params:
     logoHomeLink: "/"
     logoCursorColor: "#cc0000"
     logoCursorAnimate: "1.5s"
+
+  social:
+    - name: "rss"
+      url: "/index.xml"
+    - name: "email"
+      url: "mailto:evilgenius@evilgenius.blog"
+
+  images: []
 
 menu:
   main:
