@@ -1,0 +1,87 @@
+baseURL: https://www.evilgenius.blog
+title: "Evil Genius"
+languageCode: "en-us"
+theme: "hello-friend-ng"
+hasCJKLanguage: false
+
+PygmentsCodeFences: true
+PygmentsStyle: "dracula"
+
+copyright: "© Evil Genius | In darkness, all things have spirit"
+
+enableRobotsTXT: true
+enableEmoji: true
+enableGitInfo: false
+disableHugoGeneratorInject: false
+canonifyURLs: true
+
+pagination:
+  pagerSize: 10
+  path: page
+
+permalinks:
+  posts: "/:year/:month/:slug/"
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+  series: "series"
+
+params:
+  dateform: "2006-01-02"
+  dateformShort: "01-02"
+  dateformNum: "2006-01-02"
+  dateformNumTime: "2006-01-02 15:04"
+
+  description: "Chinese Horror Stories · Enter if you dare"
+  keywords: "horror,chinese horror,ghost stories,folklore,urban legends,supernatural"
+  images: [""]
+
+  homeSubtitle: "Fear the unseen. They are watching."
+
+  disableReadOtherPosts: false
+  enableThemeToggle: false
+  enableSharingButtons: true
+  enableReadingTime: true
+  enableGlobalLanguageMenu: false
+
+  customCSS: ["css/horror.css"]
+
+  author:
+    name: "Evil Genius"
+
+  footer:
+    trademark: 2026
+    rss: false
+    copyright: true
+    author: false
+    topText: []
+    bottomText:
+      - "🕯 The night is dark and full of terrors."
+
+  favicon.color:
+    mask: "#8b0000"
+    msapplication: "#0d0d0d"
+    theme: "#0d0d0d"
+
+  logo:
+    logoMark: "☯"
+    logoText: "$ cd /the-dark/"
+    logoHomeLink: "/"
+    logoCursorColor: "#cc0000"
+    logoCursorAnimate: "1.5s"
+
+menu:
+  main:
+    - identifier: "posts"
+      name: "Stories"
+      url: "/posts/"
+      weight: 1
+    - identifier: "categories"
+      name: "Categories"
+      url: "/categories/"
+      weight: 2
+    - identifier: "about"
+      name: "About"
+      url: "/about/"
+      weight: 3
