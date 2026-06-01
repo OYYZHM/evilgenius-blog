@@ -47,10 +47,10 @@ params:
 
   customCSS: ["css/horror.css"]
 
-  params.author:
+  author:
     name: "邪恶天才"
 
-  params.footer:
+  footer:
     trademark: 2026
     rss: true
     copyright: true
@@ -64,14 +64,14 @@ params:
     msapplication: "#0d0d0d"
     theme: "#0d0d0d"
 
-  params.logo:
+  logo:
     logoMark: "☯"
     logoText: "$ cd /the-dark/"
     logoHomeLink: "/"
     logoCursorColor: "#cc0000"
     logoCursorAnimate: "1.5s"
 
-  params.social:
+  social:
     - name: "rss"
       url: "/index.xml"
     - name: "email"
