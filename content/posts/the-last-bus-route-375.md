@@ -1,6 +1,6 @@
 ---
 title: "The Last Bus, Route 375 | A Beijing Urban Legend"
-date: 2026-06-07
+date: 2025-06-07
 categories: ["urban-legends"]
 tags: ["horror", "urban-legend", "beijing", "ghost", "bus"]
 language: "en"

@@ -1,6 +1,6 @@
 ---
 title: "The Judge's Gifts | A Tale of Stolen Hearts and Borrowed Heads"
-date: 2026-06-08
+date: 2025-06-08
 categories: ["classical-folklore"]
 tags: ["horror", "chinese-folklore", "liaozhai", "body-horror", "underworld", "identity"]
 language: "en"

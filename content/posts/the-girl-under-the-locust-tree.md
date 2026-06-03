@@ -1,6 +1,6 @@
 ---
 title: "The Girl Under the Locust Tree | A Modern Retelling of Nie Xiaoqian"
-date: 2026-06-08
+date: 2025-06-08
 categories: ["classical-folklore"]
 tags: ["horror", "chinese-folklore", "liaozhai", "ghost", "dating-app", "modern"]
 language: "en"

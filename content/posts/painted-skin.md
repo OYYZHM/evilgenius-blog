@@ -1,6 +1,6 @@
 ---
 title: "Painted Skin | A Demon Wears Her Face"
-date: 2026-06-05
+date: 2025-06-05
 categories: ["classical-folklore"]
 tags: ["horror", "chinese-folklore", "liaozhai", "demon", "body-horror"]
 language: "en"
