@@ -68,7 +68,7 @@ Song agreed. The ghost went first. It crouched. Song climbed onto its back. The 
 
 The ghost accepted this. It kept walking. Song felt the unnatural smoothness of its gait—no bounce, no sway, no rhythm. A body moving without the mechanics of living joints. He watched the landscape slide past and made mental notes.
 
-When his turn came, Song crouched. The ghost climbed onto his back. The weight was wrong. Not light—*absent*. He was carrying something that should have mass but didn't. His muscles braced for a load that never arrived. It was like carrying the memory of a person, the shape, the outline of weight without the substance. His spine told him he was unburdened. His brain insisted there was something on his back. The contradiction made his teeth ache.
+When his turn came, Song crouched. The ghost climbed onto his back. The weight was wrong. He braced for eighty jin of bone and flesh. His arms received the shape of a body, the cold papery suggestion of one. His muscles found nothing to push against—a weight that registered in the mind but not the spine. His teeth ached from the contradiction.
 
 They reached a river. The water ran black under the moonlight. The ghost crossed first, stepping from stone to stone without a single splash—no disturbance in the water, no ripple, as if it moved through the world on a slightly different frequency. Song followed. His sandals slapped the wet stones. Water sprayed his ankles.
 

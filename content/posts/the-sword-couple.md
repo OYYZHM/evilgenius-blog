@@ -120,7 +120,7 @@ They built a bronze cauldron in the center of the throne room. They filled it wi
 
 The head did not sink. It floated. The boiling water churned around it. Its eyes stayed open. Its skin did not soften. Three hours passed. The head remained. Three days. The head remained. The birthmark, through the steam and the heat, glowed a steady red.
 
-The king grew afraid. This was not the fear of an enemy with a blade—he understood that fear, could manage it. This was the fear of a thing that defied nature. A head that would not rot. Eyes that would not close. A dead boy who was more patient than a living king.
+The king grew afraid. The king had faced assassins. He knew the shape of that fear—a blade, a face, a motive you could name. This felt unfamiliar. A head that would not rot. A head that would not rot. Eyes that would not close. A dead boy who was more patient than a living king.
 
 "Call me when it is finished," he said, and retreated to his chambers.
 

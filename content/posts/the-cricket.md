@@ -34,7 +34,7 @@ He carried it into the house. His father was still at the stream. His mother was
 
 When the boy lifted the lid to add a fresh leaf, the cricket sprang.
 
-It launched itself past his fingers with a violence that made him jerk backward. He grabbed. The cricket dodged—not fast but *wrong*, moving at angles that insects should not understand. It landed on the floor. The boy lunged. His hands closed around it.
+It launched itself past his fingers with a violence that made him jerk backward. He grabbed. The cricket dodged. Its body flickered sideways along an axis that had no name in the geometry of living things. It landed on the floor. The boy lunged. His hands closed around it.
 
 For one heartbeat he felt the hard chitin against his palms. Then his hands came together too hard, and the cricket's body gave way with a wet, quiet sound.
 
@@ -126,7 +126,7 @@ One night, after the governor's men had come to collect the cricket for its jour
 
 The sheets were cold. The shutters were open. A line of footprints—bare feet, still the size of a child's—led across the floor, out the door, and into the darkness beyond. Cheng Ming followed them. They led to the well.
 
-He looked down. The water at the bottom was black. He heard a sound rising from the shaft. It was not water. It was a cricket's song—not one cricket but hundreds, thousands, a chorus so loud and so dense that the stone walls vibrated.
+He looked down. The water at the bottom was black. He heard a sound rising from the shaft. A cricket's song—hundreds of crickets, thousands, a chorus so dense the stone walls vibrated.
 
 Then the song stopped. In the silence that followed, Cheng Ming heard a voice. His son's voice, speaking from the bottom of the well. The words came up through the darkness one at a time, each one clear and cold.
 
